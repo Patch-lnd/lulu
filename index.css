@@ -73,3 +73,11 @@ hr{
     margin-left: auto;
     margin-right: auto;
 }
+audio{
+    opacity: .6;
+}
+.audio{
+    display: flex;
+    justify-content: center;
+}
+
