@@ -151,7 +151,7 @@ h1{
     justify-self: center;
     align-self: center;
     margin-bottom: 40px;
-    padding-left: 130px;
+    padding-left: 150px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
 }
 .blocks .one{
@@ -170,6 +170,9 @@ h1{
     margin: 7px;
    transition: transform .8s;
     p{
+        color: black;
+    }
+    h2{
         color: black;
     }
 /*     box-shadow: 0 5px 5px 1px rgb(255, 26, 26, 0.22); */ 
